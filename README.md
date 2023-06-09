@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jamshidhashimi
 - 👀 I’m interested in solving problems, managing teams and building products
-- 💞️ I and a bunch of amazing other developers are currently building various software products through [RapidIteration](https://rapiditeration.com)
+- 💞️ I am passionate about software development, coding, teaching and community engagement and development
 - 📫 You can follow me on Twitter: [@jamshidhashimi](https://twitter.com/jamshidhashimi)
 
 <!---
